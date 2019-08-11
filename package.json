@@ -1,7 +1,9 @@
 {
   "name": "webpack_rails_sample",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "webpack": "^4.39.1"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:huro3h/webpack_rails_sample.git",
